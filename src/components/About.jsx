@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Hello Geeks, I'm Rishav anand! I hold a deep interest & knowledge in Programming, especially in designing software. I am currently a professional full-stack web developer and full-stack android developer. At the time, I work for different clients to create and enhance their products.
+        Hello Geeks, I'm Satyam Bhardwaj! I hold a deep interest & knowledge in Programming, especially in designing software. I am currently a professional full-stack web developer and full-stack android developer. At the time, I work for different clients to create and enhance their products.
       </motion.p>
        
       <div className='mt-20 flex flex-wrap gap-10'>

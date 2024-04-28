@@ -8,9 +8,9 @@ import { getFirestore } from "firebase/firestore";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyDgZfb5a8-L99niL5KtaL1NZmw-DCazqfU",
-  authDomain: "rishav-portfolio-fc8e2.firebaseapp.com",
-  projectId: "rishav-portfolio-fc8e2",
-  storageBucket: "rishav-portfolio-fc8e2.appspot.com",
+  authDomain: "Satyam-portfolio-fc8e2.firebaseapp.com",
+  projectId: "Satyam-portfolio-fc8e2",
+  storageBucket: "Satyam-portfolio-fc8e2.appspot.com",
   messagingSenderId: "398821153563",
   appId: "1:398821153563:web:4214d18685035e46ca11be",
   measurementId: "G-T9RG3L602T"

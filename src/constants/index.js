@@ -152,10 +152,10 @@ import {
       logo:forces,
       icon: starbucks,
       iconBg: "#383E56",
-      link:"https://codeforces.com/profile/god_or_what",
+      link:"https://codeforces.com/profile/",
       date: "March 2022 - present",
       points: [
-        "Codeforces is great platform for building probelm skill in and practcing the coding questions, It has various language tracks which we can complete and earn stars to showcase our profeciency in that language, I'have solved 100+ questions    @ codeforces and was the first platform with which i started my cp journey, i have the highest rating of 1031  "
+        "Codeforces is great platform for building probelm skill in and practcing the coding questions, It has various language tracks which we can complete and earn stars to showcase our profeciency in that language, I'have solved 100+ questions    @ codeforces and was the first platform with which i started my cp journey    "
       ],
       },
     {
@@ -164,7 +164,7 @@ import {
       logo:geeksforgeeks,
       icon: tesla,
       iconBg: "#8AFF8A",
-      link:"https://auth.geeksforgeeks.org/user/rishavanand2k21",
+      link:"https://auth.geeksforgeeks.org/user/",
       date: "feb 2023 - present",
       points: ["GeeksForGeeks Abbreviated as GFG is one of the top coding platforms in India, I do solve practice questions on It sometimes",
        
@@ -177,7 +177,7 @@ import {
 
       icon: shopify,
       iconBg: "#b37206",
-      link:"https://www.codechef.com/users/rishav2k21",
+      link:"https://www.codechef.com/users/",
       
       date: "jan 2022 - present",
       points: [
@@ -191,7 +191,7 @@ import {
 
       icon: meta,
       iconBg: "#E6DEDD",
-      link:"https://leetcode.com/rishav14/",
+      link:"https://leetcode.com/",
 
       date: "dec 2022 - present",
       points: [
@@ -206,7 +206,7 @@ import {
 
       icon: meta,
       iconBg: "#383E56",
-      link:"https://github.com/Rishav2k21",
+      link:"https://github.com/",
 
       date: "dec 2022 - Present",
       points: [
@@ -221,7 +221,7 @@ import {
 
       icon: meta,
       iconBg: "#E6DEDD",
-      link:"https://www.codingninjas.com/codestudio/profile/e47e9078-1bd0-4c17-a2ec-bb4c2d91627a",
+      link:"https://www.codingninjas.com/",
 
       date: "sept - Present",
       points: [
@@ -240,7 +240,7 @@ import {
 
       icon: meta,
       iconBg: "#E6DEDD",
-      link:"https://www.linkedin.com/company/gdsc-iet-lucknow/",
+      link:"https://www.linkedin.com/",
 
       date: "aug-22 - present",
       points: [
@@ -254,7 +254,7 @@ import {
 
       icon: meta,
       iconBg: "#E6DEDD",
-      link:"https://www.linkedin.com/company/association-for-computing-machinery/mycompany/verification/",
+      link:"https://www.linkedin.com/",
 
       date: "aug-22  - Present",
       points: [
@@ -267,7 +267,7 @@ import {
 
       icon: meta,
       iconBg: "#E6DEDD",
-      link:"https://drive.google.com/drive/u/0/folders/15NE0lNpaB5LZhPC-udUVum7OE9fEHu4M",
+      link:"https",
 
       date: "dec-2022",
       points: [
@@ -280,7 +280,7 @@ import {
 
       icon: meta,
       iconBg: "#E6DEDD",
-      link:"https://www.cloudskillsboost.google/public_profiles/aa8d6a22-4d90-48f1-8edb-7d28db31d579/badges/3054940?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+      link:"https:// ",
 
       date: "dec-2022",
       points: [
@@ -293,7 +293,7 @@ import {
 
       icon: meta,
       iconBg: "#E6DEDD",
-      link:"https://www.cloudskillsboost.google/public_profiles/aa8d6a22-4d90-48f1-8edb-7d28db31d579/badges/3115103?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+      link:"https ",
 
       date: "dec-2022",
       points: [
@@ -306,7 +306,7 @@ import {
 
       icon: meta,
       iconBg: "#E6DEDD",
-      link:"https://www.cloudskillsboost.google/public_profiles/aa8d6a22-4d90-48f1-8edb-7d28db31d579/badges/3113557?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+      link:"https ",
 
       date: "dec-2022",
       points: [
@@ -319,7 +319,7 @@ import {
 
       icon: meta,
       iconBg: "#E6DEDD",
-      link:"https://www.cloudskillsboost.google/public_profiles/aa8d6a22-4d90-48f1-8edb-7d28db31d579/badges/3107351?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+      link:" ",
 
       date: "dec-2022",
       points: [
@@ -331,7 +331,7 @@ import {
       logo:cloud,
       icon: meta,
       iconBg: "#E6DEDD",
-      link:"https://www.cloudskillsboost.google/public_profiles/aa8d6a22-4d90-48f1-8edb-7d28db31d579/badges/3113291?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+      link:" ",
 
       date: "dec-2022",
       points: [
@@ -344,7 +344,7 @@ import {
 
       icon: meta,
       iconBg: "#E6DEDD",
-      link:"https://www.cloudskillsboost.google/public_profiles/aa8d6a22-4d90-48f1-8edb-7d28db31d579/badges/3111960?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+      link:" ",
 
       date: "dec-2022",
       points: [
@@ -358,7 +358,7 @@ import {
 
       icon: meta,
       iconBg: "#E6DEDD",
-      link:"https://www.cloudskillsboost.google/public_profiles/aa8d6a22-4d90-48f1-8edb-7d28db31d579/badges/3112631?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+      link:" ",
 
       date: "dec-2022",
       points: [
@@ -395,7 +395,7 @@ import {
     {
       testimonial:
         "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "https://www.instagram.com/rishav_02_12/?next=%2F",
+      name: "https://www.instagram.com/satyam_bhardwaj492/",
       designation: "CTO",
       company: "456 Enterprises",
       image: instagram,
@@ -404,7 +404,7 @@ import {
     {
       testimonial:
         "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: " https://twitter.com/rishav18082002?t=cx8Y4REAf5nq1Ocseqp82Q&s=08 ",
+      name: "  ",
       designation: "CTO",
       company: "456 Enterprises",
       image: twit,
@@ -413,7 +413,7 @@ import {
     {
       testimonial:
         "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "https://www.facebook.com/rishav.anand.5680",
+      name: "https://m.facebook.com/satyam.bhardwaj.52056223/",
       designation: "CTO",
       company: "456 Enterprises",
       image: face,
@@ -422,7 +422,7 @@ import {
     {
       testimonial:
         "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "https://www.linkedin.com/in/rishav-anand-20479b244/",
+      name: "https://www.linkedin.com/in/satyam-bhardwaj-b1a9b422b",
       designation: "CTO",
       company: "456 Enterprises",
       image: linkin,
@@ -435,29 +435,7 @@ import {
   ];
   
   const projects = [
- 
-           {
-      name: "portfolio",
-      description:
-        "Designed and developed a portfolio website using react .Utilized responsive design to ensure the website looks good on different devices and screen sizes. Ensured  responsive design for optimal user experience .",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "three.js",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: portfolio,
-      source_code_link: "https://github.com/",
-      pcode:"https://tshirt-fpaz.vercel.app/"
-    },
+  
      {
       name: "R-commerce",
       description:
@@ -477,8 +455,8 @@ import {
         },
       ],
       image: ecom,
-      source_code_link: "https://github.com/Rishav2k21/Ecommerce",
-      pcode:"https://github.com/Rishav2k21/Ecommerce"
+      source_code_link: " ",
+      pcode:" "
     },
      {
       name: "R-Crypto",
@@ -499,8 +477,8 @@ import {
         },
       ],
       image: crypto,
-      source_code_link: "https://github.com/Rishav2k21/R-cryptoo",
-      pcode:"https://r-cryptoo.vercel.app/"
+      source_code_link: " ",
+      pcode:" "
     },
 
 
@@ -523,7 +501,7 @@ import {
         },
       ],
       image: Dostean,
-      source_code_link: "https://github.com/",
+      source_code_link: " ",
       pcode:""
 
     },
@@ -546,8 +524,8 @@ import {
         },
       ],
       image: tshirt,
-      source_code_link: "https://github.com/Rishav2k21/tshirt",
-      pcode:"https://tshirt-logo-design.vercel.app/"
+      source_code_link: " t",
+      pcode:" "
 
     },
     {
@@ -563,8 +541,8 @@ import {
         },
       ],
       image: video,
-      source_code_link: "https://github.com/Rishav2k21/Video-Hub",
-      pcode:"https://video-hub-tbl3.vercel.app/"
+      source_code_link: " ",
+      pcode:" "
 
     },
    
@@ -583,14 +561,14 @@ import {
         },
       ],
       image: music,
-      source_code_link: "https://github.com/Rishav2k21/music-player-app",
+      source_code_link: " ",
       pcode:""
 
     },
     {
       name: "movie",
       description:
-        "Created a movie dfsdgvgdsgvdgvsghjhgfddxfcgvbnreview website using HTML, CSS, and JavaScript . Utilized a third-party API to fetch movie information, including descriptions and reviews",
+        "Created a movie  view website using HTML, CSS, and JavaScript . Utilized a third-party API to fetch movie information, including descriptions and reviews",
       tags: [
         {
           name: "html",
@@ -610,8 +588,8 @@ import {
         },
       ],
       image: movie,
-      source_code_link: "https://github.com/",
-      pcode:"https://movie-review-ruby.vercel.app/"
+      source_code_link: " ",
+      pcode:" "
 
     },
     {
@@ -633,8 +611,8 @@ import {
         },
       ],
       image: calci,
-      source_code_link: "https://github.com/Rishav2k21/calculator-/",
-      pcode:"https://calculator-gray-three.vercel.app/"
+      source_code_link: " ",
+      pcode:" "
 
 
     }

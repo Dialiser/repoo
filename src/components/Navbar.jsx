@@ -47,13 +47,13 @@ const Navbar = () => {
         >
           <img src={lo} alt='logo' className='w-9 h-9 object-contain rounded-full' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            Rishav &nbsp;
+            Satyam &nbsp;
             <span className='sm:block hidden'> | portfolio</span>
           </p>
         </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>
-          <li  className="bg-violet-700 shadow-lg shadow-indigo-700/50 rounded-lg hover:bg-indigo-600 active:bg-indigo-700 focus:outline-none focus:ring focus:ring-violet-300"><a  onClick={play} href="https://drive.google.com/file/d/1OKrsh8r0T3hRY7V9HfIWUt6uOqu0x8Yu/view?usp=sharing">Resume</a></li>
+          <li  className="bg-violet-700 shadow-lg shadow-indigo-700/50 rounded-lg hover:bg-indigo-600 active:bg-indigo-700 focus:outline-none focus:ring focus:ring-violet-300"><a  onClick={play} href="  https://1drv.ms/b/s!AlGA18HkRf8cgR2Ko_juXRxxqVM-?e=2Hdgjh">Resume</a></li>
           {navLinks.map((nav) => (
             <li
               key={nav.id}
